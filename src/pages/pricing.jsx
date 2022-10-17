@@ -21,8 +21,8 @@ const plans = [
       'Everything you need to set up your web shop, mobile shop and process payments.',
     button: {
       label: 'Subscribe',
-      qHref: 'https://buy.stripe.com/7sI18081e1EWfZKaEM',
-      aHref: 'https://buy.stripe.com/eVaeYQftG3N44h24gl',
+      qHref: 'https://buy.stripe.com/test_6oE15v4jd6Ns0zS7ss',
+      aHref: 'https://buy.stripe.com/test_6oE15v4jd6Ns0zS7ss',
     },
     features: [
       '500 orders',
@@ -40,8 +40,8 @@ const plans = [
       'Take your company to the next level by using GAPP Finder to manage your delivery staff',
     button: {
       label: 'Subscribe',
-      qHref: 'https://buy.stripe.com/14k7wogxK97obJu9AH',
-      aHref: 'https://buy.stripe.com/cN203W4P20ASdRC28c',
+      qHref: 'https://buy.stripe.com/test_6oE15v4jd6Ns0zS7ss',
+      aHref: 'https://buy.stripe.com/test_6oE15v4jd6Ns0zS7ss',
     },
     features: [
       '1000 Orders',
@@ -60,8 +60,8 @@ const plans = [
       'Enjoy the benefits of GAPP Blocks & GAPP CO to the fullest, with the support of multiple branches',
     button: {
       label: 'Subscribe',
-      qHref: 'https://buy.stripe.com/9AQbME3KYdnE8xicMS',
-      aHref: 'https://buy.stripe.com/aEUg2U1CQdnE8xi8wz',
+      qHref: 'https://buy.stripe.com/test_6oE15v4jd6Ns0zS7ss',
+      aHref: 'https://buy.stripe.com/test_6oE15v4jd6Ns0zS7ss',
     },
     features: [
       '5000 Orders',
